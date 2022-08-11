@@ -12,7 +12,7 @@ Endpoints
 
 Você pode encontrar a documentação nesse link abaixo com exemplos dos endpoints da aplicação.
 
-[Endpoints](https://pagarme-django.herokuapp.com/api/schema/swagger-ui/)
+[Endpoints](https://pagarme-django.herokuapp.com/api/schema/redoc/)
 
 * * *
 Como rodar a aplicação?
@@ -21,13 +21,6 @@ Como rodar a aplicação?
 1. Crie um arquivo .env na raiz da aplicação seguindo o exemplo contido no arquivo .env.example.
 2. Caso tenha o Docker instalado, execute o comando docker compose up ou docker-compose up dependendo da versão do docker-compose que esteja instalada em sua máquina.
 
-* * *
-Endpoints e Exemplos
---------
-
-Você pode encontrar a documentação nesse link abaixo com exemplos dos endpoints da aplicação.
-
-[Endpoints](https://pagarme-django.herokuapp.com/api/schema/swagger-ui/)
 
 * * *
 
@@ -60,9 +53,6 @@ Diagrama Entidade/Relacionamento
 --------------------------------
 
 ![Pagar.me (1).png](./src/imgs/der.png)
-
-* * *
-A listagem com as rotas e retornos poderão ser encontradas abaixo:
 
 
 * * *
@@ -209,13 +199,7 @@ Tratamento de erros (Gerais)
 
 * * *
 
-Endpoints
----------
-
-
-* * *
-
-Resumindo:
+Resumo dos Endpoints:
 ----------
 
 URLs:
