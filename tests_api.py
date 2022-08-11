@@ -1,8 +1,6 @@
-from django.http import response
 from rest_framework.test import APIClient, APITestCase
 from payment_info.models import PaymentInfo
 from payables.models import Payable
-from django.test import TestCase
 
 class TestAccounst(APITestCase):
     @classmethod

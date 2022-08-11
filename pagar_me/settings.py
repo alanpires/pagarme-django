@@ -167,7 +167,7 @@ REST_FRAMEWORK = {
 
 SPECTACULAR_SETTINGS = {
     'TITLE': 'Pagar Me',
-    'DESCRIPTION': 'Nesse desafio você construirá uma versão simplificada de um market place e também um sistema de pagamentos, onde será possível comprar produtos e processar transações. A atividade deverá ser desenvolvida utilizando Generic Views.',
+    'DESCRIPTION': 'Nesse desafio foi construída uma versão simplificada de um market place e também um sistema de pagamentos, onde é possível comprar produtos e processar transações. A atividade foi desenvolvida utilizando a linguagem Python com o framework Django e Django Rest Framework.',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
 }

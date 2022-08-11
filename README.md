@@ -7,6 +7,29 @@ A atividade foi desenvolvida utilizando a linguagem Python com o framework Djang
 
 
 * * *
+Endpoints
+--------
+
+Você pode encontrar a documentação nesse link abaixo com exemplos dos endpoints da aplicação.
+
+[Endpoints](https://pagarme-django.herokuapp.com/api/schema/swagger-ui/)
+
+* * *
+Como rodar a aplicação?
+--------
+
+1. Crie um arquivo .env na raiz da aplicação seguindo o exemplo contido no arquivo .env.example.
+2. Caso tenha o Docker instalado, execute o comando docker compose up ou docker-compose up dependendo da versão do docker-compose que esteja instalada em sua máquina.
+
+* * *
+Endpoints e Exemplos
+--------
+
+Você pode encontrar a documentação nesse link abaixo com exemplos dos endpoints da aplicação.
+
+[Endpoints](https://pagarme-django.herokuapp.com/api/schema/swagger-ui/)
+
+* * *
 
 Contexto
 --------
